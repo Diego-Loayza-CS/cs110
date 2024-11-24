@@ -1,0 +1,10 @@
+------------------
+--------gg--------
+------ggkkgg------
+----ggkkkkkkgg----
+---gkkk-k-kkkkg---
+--gkkkkk-kkkkkkg--
+ggkkkkkk-kkkkkkkgg
+kkkkkkkkkkkkkkkkkk
+17 1
+0

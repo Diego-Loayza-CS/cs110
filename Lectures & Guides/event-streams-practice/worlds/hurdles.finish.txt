@@ -1,0 +1,9 @@
+--------------------------
+--------------------------
+--ggggggg-----------------
+--gkkkkkg---ggggg---------
+--gkkkkkg---gkkkg-ggg---kk
+gggkkkkkgggggkkkgggkgggggk
+kkkkkkkkkkkkkkkkkkkkkkkkkk
+24 1
+0

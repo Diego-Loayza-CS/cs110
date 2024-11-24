@@ -1,0 +1,10 @@
+------
+r-----
+rr----
+rrr---
+rrrr--
+rrrrr-
+rrrrrr
+rrrrrr
+5 0
+0

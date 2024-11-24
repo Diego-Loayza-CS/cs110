@@ -1,0 +1,11 @@
+bbbbbbbbbbbb
+b--------k-b
+bkbbbbbbbb-b
+b-b----k-b-b
+b-bbbbbbkb-b
+b-k------b-b
+bbbbbbbbbbkb
+k----------b
+bbbbbbbbbbbb
+7 4
+0

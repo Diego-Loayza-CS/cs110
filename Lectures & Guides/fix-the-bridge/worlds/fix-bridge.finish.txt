@@ -1,0 +1,7 @@
+-----------
+-----------
+kkkrrrrrrkk
+kkk------kk
+kkkbbbbbbkk
+10 3
+0
