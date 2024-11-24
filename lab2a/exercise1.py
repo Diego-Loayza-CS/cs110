@@ -4,8 +4,10 @@ from byubit import Bit
 def turn_or_change(bit):
     if bit.is_on_red():
         bit.turn_left()
+
     elif bit.is_on_green():
         bit.paint('blue')
+
     elif bit.is_on_blue():
         bit.paint('green')
 
