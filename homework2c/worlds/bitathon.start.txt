@@ -1,0 +1,11 @@
+---------------------------
+---------------------------
+kk-------------------------
+kkkk-----------------------
+kkkk-----------------------
+kkkkk----------------------
+kkkkkkkbbbbbbbbbbbbbkkkkkkk
+kkkkkkkkkbbbbbbbbbkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkk
+0 7
+0

@@ -1,0 +1,10 @@
+--r----r----r---r-
+-rrr--rrr--rrr-rrr
+--g----g----g---g-
+--g----g----g---g-
+kbkkbbbkbbbbkbbbkk
+kbkkbbbkbbbbkkkkkk
+kbkkkkkkbbbbkkkkkk
+kkkkkkkkkkkkkkkkkk
+17 4
+0

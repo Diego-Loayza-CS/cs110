@@ -1,0 +1,10 @@
+---------------------
+---gg--gggg----ggg---
+--gkkggkkkkg--gkkkg--
+--gkkggkkkkg--gkkkg--
+---gg-gkkkkg--gkkkg--
+------gkkkkg---ggg---
+-------gggg----------
+---------------------
+20 6
+0

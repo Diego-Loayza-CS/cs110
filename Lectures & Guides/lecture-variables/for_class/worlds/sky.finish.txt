@@ -1,0 +1,9 @@
+--------------------
+rrrrbbggggbbbbrrrrgg
+--------------------
+--------------------
+---rbb----bbbb------
+rrrkkkggggkkkkrrrrgg
+kkkkkkkkkkkkkkkkkkkk
+19 5
+0

@@ -1,0 +1,11 @@
+---------------------
+---------------------
+---------------------
+--r-------r-------r--
+-bkb-----bkb-----bkb-
+gkkkg----kkk----gkkkg
+kkkkkg---kkk---gkkkkk
+kkkkkkgggkkkgggkkkkkk
+kkkkkkkkkkkkkkkkkkkkk
+0 6
+0
