@@ -1,13 +1,6 @@
 from byubit import Bit
 
 
-def get_next_color(bit):
-    color = bit.get_color()
-    bit.erase()
-    bit.move()
-    return color
-
-
 def go(bit):
     """Go until blocked in front."""
     while bit.front_clear():
@@ -22,7 +15,7 @@ def go_to_start(bit):
     bit.left()
     go(bit)
     bit.left()
-
+    
 
 def paint_t(bit, color):
     """Paint a T. Start in the bottom left of the 3x3 box. End just outside the bottom right of the 3x3 box."""
@@ -48,28 +41,29 @@ def paint_t(bit, color):
     bit.move()
     bit.snapshot('T painted')
 
-
-def next_bit(bit):
+def get_the_colors(bit):
+    first = bit.get_color()
     bit.erase()
     bit.move()
+    second = bit.get_color()
+    bit.erase()
+    bit.move()
+    third = bit.get_color()
+    bit.erase()
+    return first, second, third
+
+
+def paint_ttt(bit, color1, color2, color3):
+    paint_t(bit, color1)
+    paint_t(bit, color2)
+    paint_t(bit, color3)
 
 
 @Bit.worlds('color_tt', 'color_tt2')
 def run(bit):
-    first_color = bit.get_color()
-    next_bit(bit)
-
-    second_color = bit.get_color()
-    next_bit(bit)
-
-    third_color = bit.get_color()
-    next_bit(bit)
-
+    color1, color2, color3 = get_the_colors(bit)
     go_to_start(bit)
-
-    paint_t(bit, first_color)
-    paint_t(bit, second_color)
-    paint_t(bit, third_color)
+    paint_ttt(bit, color1, color2, color3)
 
 
 if __name__ == '__main__':
