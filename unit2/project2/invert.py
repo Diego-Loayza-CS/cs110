@@ -51,4 +51,3 @@ def run(bit):
 
 if __name__ == '__main__':
     run(Bit.new_bit)
-
