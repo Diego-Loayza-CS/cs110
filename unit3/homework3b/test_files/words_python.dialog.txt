@@ -1,0 +1,13 @@
+Enter a secret word: <<bear>>
+Guess a word: <<middle>>
+``Lower!;lower1;15``
+Guess a word: <<cathartic>>
+``Lower!;lower2;10``
+Guess a word: <<assurance>>
+``Higher!;higher1;10``
+Guess a word: <<benevolent>>
+``Lower!;lower3;15``
+Guess a word: <<bask>>
+``Higher!;higher2;10``
+Guess a word: <<bear>>
+``You got it!;correct;20``

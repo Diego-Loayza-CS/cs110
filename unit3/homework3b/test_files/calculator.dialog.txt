@@ -1,0 +1,40 @@
+
+What would you like to do?
+ 1) Add
+ 2) Subtract
+ 3) Quit
+Option: <<1>>
+Number 1: <<10>>
+Number 2: <<2>>
+``12;add;20``
+
+What would you like to do?
+ 1) Add
+ 2) Subtract
+ 3) Quit
+Option: <<2>>
+Number 1: <<42>>
+Number 2: <<20>>
+``22;subtract;20``
+
+What would you like to do?
+ 1) Add
+ 2) Subtract
+ 3) Quit
+Option: <<1>>
+Number 1: <<50>>
+Number 2: <<50>>
+``100;add2;20``
+
+What would you like to do?
+ 1) Add
+ 2) Subtract
+ 3) Quit
+Option: <<foo>>
+Unrecognized response: ``foo;unrecognized-input;20``
+
+What would you like to do?
+ 1) Add
+ 2) Subtract
+ 3) Quit
+Option: <<3>>

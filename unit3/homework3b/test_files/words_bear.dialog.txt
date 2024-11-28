@@ -1,0 +1,13 @@
+Enter a secret word: <<python>>
+Guess a word: <<slate>>
+``Lower!;lower1;15``
+Guess a word: <<crane>>
+``Higher!;higher1;10``
+Guess a word: <<pickles>>
+``Higher!;higher2;10``
+Guess a word: <<quiz>>
+``Lower!;lower2;15``
+Guess a word: <<poodle>>
+``Higher!;higher3;10``
+Guess a word: <<python>>
+``You got it!;correct;20``
