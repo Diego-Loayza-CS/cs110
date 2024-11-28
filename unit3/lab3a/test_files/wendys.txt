@@ -1,0 +1,5 @@
+Welcome to Wendy's!
+What is your name? <<Jorge>>
+What kind of sandwich do you want? <<chicken>>
+What do you want on it? <<lettuce and tomatoes>>
+``Jorge wants a chicken sandwich with lettuce and tomatoes!;output;80``

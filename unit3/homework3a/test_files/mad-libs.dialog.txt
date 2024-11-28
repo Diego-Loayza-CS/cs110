@@ -1,0 +1,18 @@
+Welcome to Mad Libs!
+Please enter the following words:
+Noun: <<math>>
+Adjective: <<angry>>
+Adjective: <<annoyed>>
+Noun: <<cat>>
+Number: <<33>>
+Adjective: <<smelly>>
+Past-Tense Verb: <<ran>>
+Game: <<Minecraft>>
+Verb: <<sprint>>
+``Once upon a time a student at found themselves in a math class.
+The teacher was so angry that the student started to daydream about a cat.
+Then the student woke up and realized that they were still in class.
+The teacher was so annoyed that they gave the student a 33 on the assignment.
+The student was so smelly that he ran the class and went home to play Minecraft.
+The moral of the story is that you should never sprint in class.
+;output;80``
