@@ -1,0 +1,37 @@
+Item: <<kazoo>>
+Item: <<fiddle>>
+Item: <<marimba>>
+Item: <<harpsichord>>
+Item: <<french horn>>
+Item: <<>>
+
+Custom Bullet Point: <<*>>
+Custom Bullet Point: <<.>>
+Custom Bullet Point: <<o>>
+Custom Bullet Point: <<x>>
+Custom Bullet Point: <<>>
+
+``* kazoo
+* fiddle
+* marimba
+* harpsichord
+* french horn;first-bullet;30``
+
+``. kazoo
+. fiddle
+. marimba
+. harpsichord
+. french horn
+
+o kazoo
+o fiddle
+o marimba
+o harpsichord
+o french horn
+
+x kazoo
+x fiddle
+x marimba
+x harpsichord
+x french horn;other-bullets;50``
+

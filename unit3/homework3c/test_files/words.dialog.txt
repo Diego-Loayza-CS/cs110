@@ -1,0 +1,35 @@
+Word: <<apple>>
+Word: <<banana>>
+Word: <<camel>>
+Word: <<dunk>>
+Word: <<loop>>
+Word: <<monkey>>
+Word: <<noodle>>
+Word: <<octopus>>
+Word: <<program>>
+Word: <<quiz>>
+Word: <<root>>
+Word: <<square>>
+Word: <<tame>>
+Word: <<electric>>
+Word: <<zoo>>
+Word: <<>>
+Boundary: <<money>>
+You have ``15;amount-of-words;20`` words
+These are small:
+``apple
+banana
+camel
+dunk
+loop
+electric;small-words;30``
+These are big:
+``monkey
+noodle
+octopus
+program
+quiz
+root
+square
+tame
+zoo;big-words;30``

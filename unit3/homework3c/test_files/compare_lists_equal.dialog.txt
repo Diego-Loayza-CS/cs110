@@ -1,0 +1,13 @@
+Enter a Fruit: <<grape>>
+Enter a Fruit: <<strawberry>>
+Enter a Fruit: <<>>
+Enter a Vegetable: <<squash>>
+Enter a Vegetable: <<yam>>
+Enter a Vegetable: <<>>
+Fruits:
+ - grape
+ - strawberry
+Vegetables:
+ - squash
+ - yam
+What a healthy balanced diet!

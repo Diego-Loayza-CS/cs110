@@ -1,0 +1,32 @@
+Item: <<computer science>>
+Item: <<mathematics>>
+Item: <<mechanical engineering>>
+Item: <<bioinformatics>>
+Item: <<>>
+
+Custom Bullet Point: <<@>>
+Custom Bullet Point: <<#>>
+Custom Bullet Point: <<&>>
+Custom Bullet Point: <<%>>
+Custom Bullet Point: <<>>
+
+``@ computer science
+@ mathematics
+@ mechanical engineering
+@ bioinformatics;first-bullet;30``
+
+``# computer science
+# mathematics
+# mechanical engineering
+# bioinformatics
+
+& computer science
+& mathematics
+& mechanical engineering
+& bioinformatics
+
+% computer science
+% mathematics
+% mechanical engineering
+% bioinformatics;other-bullets;50``
+

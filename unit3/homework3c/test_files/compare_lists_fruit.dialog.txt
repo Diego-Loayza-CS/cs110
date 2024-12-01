@@ -1,0 +1,15 @@
+Enter a Fruit: <<apples>>
+Enter a Fruit: <<oranges>>
+Enter a Fruit: <<bananas>>
+Enter a Fruit: <<>>
+Enter a Vegetable: <<spinach>>
+Enter a Vegetable: <<broccoli>>
+Enter a Vegetable: <<>>
+Fruits:
+ - apples
+ - oranges
+ - bananas
+Vegetables:
+ - spinach
+ - broccoli
+You need more vegetables!

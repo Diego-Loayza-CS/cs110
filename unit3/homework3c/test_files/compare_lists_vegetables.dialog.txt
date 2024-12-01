@@ -1,0 +1,11 @@
+Enter a Fruit: <<apple>>
+Enter a Fruit: <<>>
+Enter a Vegetable: <<carrot>>
+Enter a Vegetable: <<squash>>
+Enter a Vegetable: <<>>
+Vegetables:
+ - carrot
+ - squash
+Fruits:
+ - apple
+You need more fruit!
