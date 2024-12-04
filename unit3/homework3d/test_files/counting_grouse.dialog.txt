@@ -1,0 +1,14 @@
+Enter an observation count: <<45>>
+Enter an observation count: <<60>>
+Enter an observation count: <<21>>
+Enter an observation count: <<104>>
+Enter an observation count: <<>>
+There are ``230;total;10`` total grouse.
+The smallest count is: ``21;smallest-count;20``
+The largest count is: ``104;largest-count;20``
+Enter factor: <<4>>
+The estimated grouse populations are:
+``- 180
+- 240
+- 84
+- 416;final-populations;30``

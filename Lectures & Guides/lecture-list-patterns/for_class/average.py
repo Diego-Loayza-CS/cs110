@@ -7,4 +7,3 @@ def average(numbers):
 
 if __name__ == '__main__':
     print(average([1, 2, 3, 4]))
-    

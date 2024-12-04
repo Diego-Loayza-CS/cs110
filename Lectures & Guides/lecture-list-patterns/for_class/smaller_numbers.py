@@ -1,5 +1,10 @@
-def make_smaller(numbers):    
-    pass
+def make_smaller(numbers):
+    smaller_list = []
+    for number in numbers:
+        small = number / 2
+        smaller_list.append(small)
+    return smaller_list
+
 
 
 if __name__ == '__main__':
